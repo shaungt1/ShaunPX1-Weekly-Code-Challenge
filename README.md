@@ -27,7 +27,7 @@ _ **WINNERS** _ _will be announced each week or scheduled livestream on Youtube 
 
 _Or you can drop your link in the YouTube video description for the challege_
 
-![](RackMultipart20220207-4-1ss0kgf_html_f8fecb5d65292e4c.png)
+![](https://github.com/shaungt1/ShaunPX1-Weekly-Code-Challenge/blob/main/assets/ch.png)
 
 ![Shape2](RackMultipart20220207-4-1ss0kgf_html_237499165a11f2b9.gif)
 
