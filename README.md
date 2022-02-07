@@ -8,7 +8,7 @@ Welcome to my weekly could challenge group where each week I will be putting out
 
 - [**ShaunPx1 Creator Website:**](https://shaunp.live/)
 
-![Shape1](RackMultipart20220207-4-1ss0kgf_html_237499165a11f2b9.gif)
+<hr>
 
 ## **Submissions:**
 
@@ -29,7 +29,6 @@ _Or you can drop your link in the YouTube video description for the challege_
 
 ![](https://github.com/shaungt1/ShaunPX1-Weekly-Code-Challenge/blob/main/assets/ch.png)
 
-![Shape2](RackMultipart20220207-4-1ss0kgf_html_237499165a11f2b9.gif)
 
 ## **How this Works:**
 
