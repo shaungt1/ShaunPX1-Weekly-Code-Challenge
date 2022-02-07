@@ -1,6 +1,6 @@
 # **ShaunPx1 Weekly Code Challenge**
 
-![](RackMultipart20220207-4-1ss0kgf_html_2dd8efad6761fc12.png)
+![](https://github.com/shaungt1/ShaunPX1-Weekly-Code-Challenge/blob/main/assets/bck.png)
 
 Welcome to my weekly could challenge group where each week I will be putting out a new code challenge and testing the limits of your problem-solving skills developer. If you&#39;d like to see the videos and tutorials please visit my YouTube channel located at:
 
@@ -60,3 +60,7 @@ Live streams will be scheduled for YouTube and Facebook work orders and viewers 
 - [**ShaunPx1 LiveStream Channel:**](https://www.youtube.com/channel/UC78cpbnaq-eeKGGHIEtUgdw)
 
 - [**ShaunPx1 Facebook Livestream:**](https://www.facebook.com/shaunPX1)
+
+<hr>
+
+![](https://github.com/shaungt1/ShaunPX1-Weekly-Code-Challenge/blob/main/assets/bck.png)
