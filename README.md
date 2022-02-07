@@ -1,6 +1,6 @@
 # **ShaunPx1 Weekly Code Challenge**
 
-![](RackMultipart20220207-4-1ss0kgf_html_2dd8efad6761fc12.png)
+![](https://github.com/shaungt1/ShaunPX1-Weekly-Code-Challenge/blob/main/assets/bck.png)
 
 Welcome to my weekly could challenge group where each week I will be putting out a new code challenge and testing the limits of your problem-solving skills developer. If you&#39;d like to see the videos and tutorials please visit my YouTube channel located at:
 
@@ -8,7 +8,7 @@ Welcome to my weekly could challenge group where each week I will be putting out
 
 - [**ShaunPx1 Creator Website:**](https://shaunp.live/)
 
-![Shape1](RackMultipart20220207-4-1ss0kgf_html_237499165a11f2b9.gif)
+<hr>
 
 ## **Submissions:**
 
@@ -27,9 +27,8 @@ _ **WINNERS** _ _will be announced each week or scheduled livestream on Youtube 
 
 _Or you can drop your link in the YouTube video description for the challege_
 
-![](RackMultipart20220207-4-1ss0kgf_html_f8fecb5d65292e4c.png)
+![](https://github.com/shaungt1/ShaunPX1-Weekly-Code-Challenge/blob/main/assets/ch.png)
 
-![Shape2](RackMultipart20220207-4-1ss0kgf_html_237499165a11f2b9.gif)
 
 ## **How this Works:**
 
@@ -60,3 +59,7 @@ Live streams will be scheduled for YouTube and Facebook work orders and viewers 
 - [**ShaunPx1 LiveStream Channel:**](https://www.youtube.com/channel/UC78cpbnaq-eeKGGHIEtUgdw)
 
 - [**ShaunPx1 Facebook Livestream:**](https://www.facebook.com/shaunPX1)
+
+<hr>
+
+![](https://github.com/shaungt1/ShaunPX1-Weekly-Code-Challenge/blob/main/assets/bck.png)
