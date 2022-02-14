@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Welcome to 2022 Code challenge
 
 ![]()
@@ -31,3 +32,5 @@ Welcome to my weekly could challenge group where each week I will be putting out
 - [**ShaunPx1 Youtube Channel:**](https://www.youtube.com/channel/UC78cpbnaq-eeKGGHIEtUgdw)
 
 - [**ShaunPx1 Creator Website:**](https://shaunp.live/)
+=======
+>>>>>>> Stashed changes
