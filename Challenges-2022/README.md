@@ -2,41 +2,32 @@
 
 ![]()
 
+
 Please select the repo directory with the code challenge you want to take, fork or download the code and instructions to get started!
 
 ### [Rules and Submissions Info Click Here:](https://github.com/shaungt1/ShaunPX1-Weekly-Code-Challenge)
 
-## Code Challenges
 
+## Code Challenges
 > Below listed are the links to the code challenges in order. Each challenge has a separate Repo and source code of a finished project please submit your challenge to the Facebook or Discord Challenge.
->
-> _SUBMIT YOUR CODE CHALLENGE LINK HERE_
+> 
+*SUBMIT YOUR CODE CHALLENGE LINK HERE*
 
 - [Facebook Submisions](https://www.facebook.com/shaunPX1/)
 - [Discord Submisions](https://discord.gg/Mu52QeAE)
 
----
+If you have any ideas for challenges you want me to create email me:
+<shaun@webreactor.us>
+----
 
-## Challenges
+### Challenges
 
-### (1)-  **[Code Challenge #1](https://github.com/shaungt1/Code-Challenge-1)**
-- Dynamic form component from scratch no style libraries pure JS
+**[Code Challenge 1](https://github.com/shaungt1/Code-Challenge-1)**
 
-### (2)- **[Code Challenge #2](https://github.com/)**
-- ...
 
----
 
 Welcome to my weekly could challenge group where each week I will be putting out a new code challenge and testing the limits of your problem-solving skills developer. If you&#39;d like to see the videos and tutorials please visit my YouTube channel located at:
 
 - [**ShaunPx1 Youtube Channel:**](https://www.youtube.com/channel/UC78cpbnaq-eeKGGHIEtUgdw)
 
 - [**ShaunPx1 Creator Website:**](https://shaunp.live/)
-
-If you have any ideas for challenges you want me to create, email me here:
-
-<shaun@webreactor.us>
-
-Don't forget to check out my creator site with tutorials, swag, code, resources, and free tools!
-
-[www.shaunp.live](https://shaunp.live)
