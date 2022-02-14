@@ -1,15 +1,33 @@
 # Welcome to 2022 Code challenge
 
+![]()
+
+
 Please select the repo directory with the code challenge you want to take, fork or download the code and instructions to get started!
 
 ### [Rules and Submissions Info Click Here:](https://github.com/shaungt1/ShaunPX1-Weekly-Code-Challenge)
 
 
 ## Code Challenges
-> below listed are the links to the code challenges in order. Each challenge has a speerate Repo and source code of a finished project please submit your challenge to the Facebook or Discord Challenge.
+> Below listed are the links to the code challenges in order. Each challenge has a separate Repo and source code of a finished project please submit your challenge to the Facebook or Discord Challenge.
+> 
+*SUBMIT YOUR CODE CHALLENGE LINK HERE*
 
+- [Facebook Submisions](https://www.facebook.com/shaunPX1/)
+- [Discord Submisions](https://discord.gg/Mu52QeAE)
+
+If you have any ideas for challenges you want me to create email me:
+<shaun@webreactor.us>
 ----
 
 ### Challenges
 
 **[Code Challenge 1](https://github.com/shaungt1/Code-Challenge-1)**
+
+
+
+Welcome to my weekly could challenge group where each week I will be putting out a new code challenge and testing the limits of your problem-solving skills developer. If you&#39;d like to see the videos and tutorials please visit my YouTube channel located at:
+
+- [**ShaunPx1 Youtube Channel:**](https://www.youtube.com/channel/UC78cpbnaq-eeKGGHIEtUgdw)
+
+- [**ShaunPx1 Creator Website:**](https://shaunp.live/)
