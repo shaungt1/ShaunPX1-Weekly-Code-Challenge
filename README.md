@@ -23,7 +23,7 @@ _ **WINNERS** _ _will be announced each week or scheduled livestream on Youtube 
 ### **Submission Links:**
 
 - [Facebook Submisions](https://www.facebook.com/shaunPX1/)
-- [Discord Submisions](https://discord.gg/Mu52QeAE)
+- [Discord Submisions](https://discord.gg/qQ5DAJ56yW)
 
 _Or you can drop your link in the YouTube video description for the challege_
 
